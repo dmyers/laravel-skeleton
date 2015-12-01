@@ -4,12 +4,13 @@ This is a default setup of Laravel Framework 5.1 with the following changes:
 
 * Setup app scss to work with Bootstrap and Font Awesome
 * Setup app js to load jQuery and Bootstrap components
-* Configured Gulp with live reload, browserify, minifiication, and versioned builds
+* Configured Gulp with live reload, browserify, minification, and versioned builds
 * Added NPM packages (jQuery, Font Awesome)
 * Set up Laravel Homestead for this specific app
-* Created app layout
 * Moved welcome route to controller
-* Changed welcome view to extend app layout
+* Renamed welcome view to home
+* Created app layout
+* Changed home view to extend app layout
 * Removed auth controllers
 * Removed app middleware
 * Removed user model, migration, and factory
