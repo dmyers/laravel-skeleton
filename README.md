@@ -15,6 +15,7 @@ This is a default setup of Laravel Framework 5.1 with the following changes:
 * Removed app middleware
 * Removed user model, migration, and factory
 * Removed password reset migration
+* Removed inspire command
 * Removed 503 down view
 
 ## Setup
