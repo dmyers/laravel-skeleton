@@ -7,6 +7,7 @@ This is a default setup of Laravel Framework 5.1 with the following changes:
 * Configured Gulp with live reload, browserify, minification, and versioned builds
 * Added NPM packages (jQuery, Font Awesome)
 * Set up Laravel Homestead for this specific app
+* Added whoops error page back (TODO)
 * Moved welcome route to controller
 * Renamed welcome view to home
 * Created app layout
